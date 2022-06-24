@@ -7,7 +7,7 @@ class OuterBlock
   {
     pos = new PVector(width/2, height/2+4);
     w = width-4;
-    h = height-20;
+    h = height-4;
   }
 
 
